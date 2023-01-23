@@ -11,6 +11,8 @@ public class Main {
         int A = Integer.parseInt(st.nextToken());
         int B = Integer.parseInt(st.nextToken());
 
-        System.out.println(A * B);
+        int result = A * B;
+        
+        System.out.println(result);
     }
 }
